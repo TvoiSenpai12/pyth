@@ -1,3 +1,3 @@
 # Телеграм граббер
 ### Установка нужных зависимостей <br>
-pip install Telethon
+pip install Pyrogram
